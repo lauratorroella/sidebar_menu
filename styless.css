@@ -46,4 +46,12 @@
     align-items: center;
     height: 100%;
   }
+  .sidebar-menu ul li {
+    margin: 20px 0;
+  }
   
+  .sidebar-menu ul a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+  }
